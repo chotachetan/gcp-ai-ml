@@ -37,10 +37,10 @@ GCP offers a variety of services for AI/ML workloads. Here are the key ones:
 - **Dialogflow**: Build conversational AI applications.
 - **Natural Language API**: Pre-trained NLP models for text analysis.
 
-- E2E AI/ML workflow on GCP
+E2E AI/ML workflow on GCP
 ![E2E AI/ML workflow on GCP](https://github.com/user-attachments/assets/8b8e5fdc-30f5-4664-a368-14159c7c9460)
 
-- Choosing right GCP service for AI/ML
+Choosing right GCP service for AI/ML
 ![Choosing right GCP service for AI/ML](https://github.com/user-attachments/assets/5b45bcc3-2a87-4361-ba64-3d4dbb4d5153)
 
 
@@ -52,7 +52,7 @@ Choosing the right **Google Cloud Platform (GCP)** services for AI/ML workloads 
 ## **1. Vertex AI**
 Vertex AI is GCP's unified AI/ML platform for building, training, and deploying machine learning models.
 
-- Vertex AI architecture
+Vertex AI architecture
 ![Vertex AI architecture](https://github.com/user-attachments/assets/6b75f90e-ad82-4710-991e-1db2d8fe8b37)
 
 
@@ -200,7 +200,7 @@ GCP offers **Cloud TPUs** (Tensor Processing Units) and **GPUs** for accelerated
 ## **7. Generative AI on Vertex AI**
 GCP provides access to **PaLM 2** and other generative AI models via Vertex AI.
 
-- Gen AI workflow in Vertex AI
+Gen AI workflow in Vertex AI
 ![Gen AI workflow in Vertex AI](https://github.com/user-attachments/assets/39280381-350a-4b99-8cc3-1d912102a945)
 
 ### **Pros:**
@@ -282,7 +282,7 @@ By carefully evaluating your use case, expertise, and budget, you can choose the
 ## **3. Prepare Your Data**
 Data preparation is critical for training and deploying models.
 
-- Data preparation pipeline
+Data preparation pipeline
 ![Data preparation pipeline](https://github.com/user-attachments/assets/e01633ab-f3fe-4e89-bed9-d2d3727a2ac1)
 
 
@@ -329,7 +329,7 @@ GCP provides multiple options for training models, depending on your expertise a
 ## **5. Deploy Your Model**
 Once trained, deploy your model for inference.
 
-- Model deployment options
+Model deployment options
 ![Model deployment options](https://github.com/user-attachments/assets/25010bf9-ef10-48bd-8a92-ce7fed11cf09)
 
 
@@ -379,7 +379,7 @@ GCP provides access to state-of-the-art LLMs like **PaLM 2** via Vertex AI.
 ## **7. Monitor and Optimize**
 After deployment, monitor and optimize your models.
 
-- Monitoring and optimization workflow
+Monitoring and optimization workflow
 ![Monitoring and optimization workflow](https://github.com/user-attachments/assets/acf3ca90-26a2-4dfe-a77f-f07fc19dd84a)
 
 
