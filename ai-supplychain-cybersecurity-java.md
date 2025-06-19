@@ -229,16 +229,7 @@ java -javaagent:/path/opentelemetry-javaagent.jar -jar myapp.jar
 
 ---
 
-## 📚 **Next Deep‑Dives (Pick one)**
-
-1. **ZTD\_JAVA**: Setup, policy creation, performance metrics, and real-world case builds.
-2. **SBOM.EXE**: Integrating into Maven/Gradle builds and runtime behavior tuning.
-3. **CNAPPs**: Vendor comparison (CrowdStrike, Cisco, Trend Micro); AI triaging demos.
-4. **Confidential Computing**: Compare Intel SGX vs AMD SEV vs GPU TEEs; supply chain AI use cases.
-5. **OpenTelemetry**: Secure Collector deployment, CI/CD integration, and security trace correlation.
-6. **Multi‑agent AI systems**: Design patterns, integration strategies, and incident response flows.
-
-## **Associated Links**
+## 📚 **Associated Links**
 
 [1]: https://arxiv.org/abs/2310.14117?utm_source=chatgpt.com "ZTD$_{JAVA}$: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies"
 [2]: https://davisjam.medium.com/mitigating-software-supply-chain-vulnerabilities-with-zero-trust-dependencies-06f950497cfe?utm_source=chatgpt.com "Mitigating Software Supply Chain Vulnerabilities with Zero-Trust Dependencies | by James Davis | May, 2025 | Medium"
