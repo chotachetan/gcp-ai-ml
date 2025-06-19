@@ -228,16 +228,15 @@ java -javaagent:/path/opentelemetry-javaagent.jar -jar myapp.jar
 * **Efficiency**: Automation reduces manual overhead, accelerates development, and shortens time-to-resolution.
 
 ---
+Sources 
 
-## 📚 **Associated Links**
-
-[1]: https://arxiv.org/abs/2310.14117?utm_source=chatgpt.com "ZTD$_{JAVA}$: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies"
-[2]: https://davisjam.medium.com/mitigating-software-supply-chain-vulnerabilities-with-zero-trust-dependencies-06f950497cfe?utm_source=chatgpt.com "Mitigating Software Supply Chain Vulnerabilities with Zero-Trust Dependencies | by James Davis | May, 2025 | Medium"
-[3]: https://arxiv.org/abs/2407.00246?utm_source=chatgpt.com "SBOM.EXE: Countering Dynamic Code Injection based on Software Bill of Materials in Java"
-[4]: https://cloud.google.com/architecture/confidential-computing-analytics-ai?utm_source=chatgpt.com "Confidential computing for data analytics, AI, and federated learning  |  Cloud Architecture Center  |  Google Cloud"
-[5]: https://confidentialcomputing.io/2024/09/26/confidential-computing-for-secure-ai-pipelines-protecting-the-full-model-lifecycle/?utm_source=chatgpt.com "Confidential Computing for Secure AI Pipelines: Protecting the Full Model Lifecycle – Confidential Computing Consortium"
-[6]: https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/?utm_source=chatgpt.com "AI Security with Confidential Computing | NVIDIA"
-[7]: https://www.reddit.com/r/devops/comments/18hi8dp?utm_source=chatgpt.com "How do I convince my org to adopt Opentelemetry"
-[8]: https://opentelemetry.io/blog/2024/security-audit-results/?utm_source=chatgpt.com "OpenTelemetry Security Audit Published | OpenTelemetry"
-[9]: https://opentelemetry.io/blog/2025/otel-cicd-sig/?utm_source=chatgpt.com "OpenTelemetry Is Expanding Into CI/CD Observability | OpenTelemetry"
-[10]: https://opentelemetry.io/docs/security/?utm_source=chatgpt.com "Security | OpenTelemetry"
+[1]: https://arxiv.org/abs/2310.14117 "ZTD$_{JAVA}$: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies"
+[2]: https://davisjam.medium.com/mitigating-software-supply-chain-vulnerabilities-with-zero-trust-dependencies-06f950497cfe "Mitigating Software Supply Chain Vulnerabilities with Zero-Trust Dependencies | by James Davis | May, 2025 | Medium"
+[3]: https://arxiv.org/abs/2407.00246 "SBOM.EXE: Countering Dynamic Code Injection based on Software Bill of Materials in Java"
+[4]: https://cloud.google.com/architecture/confidential-computing-analytics-ai "Confidential computing for data analytics, AI, and federated learning  |  Cloud Architecture Center  |  Google Cloud"
+[5]: https://confidentialcomputing.io/2024/09/26/confidential-computing-for-secure-ai-pipelines-protecting-the-full-model-lifecycle/ "Confidential Computing for Secure AI Pipelines: Protecting the Full Model Lifecycle – Confidential Computing Consortium"
+[6]: https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/ "AI Security with Confidential Computing | NVIDIA"
+[7]: https://www.reddit.com/r/devops/comments/18hi8dp "How do I convince my org to adopt Opentelemetry"
+[8]: https://opentelemetry.io/blog/2024/security-audit-results/ "OpenTelemetry Security Audit Published | OpenTelemetry"
+[9]: https://opentelemetry.io/blog/2025/otel-cicd-sig/ "OpenTelemetry Is Expanding Into CI/CD Observability | OpenTelemetry"
+[10]: https://opentelemetry.io/docs/security/ "Security | OpenTelemetry"
